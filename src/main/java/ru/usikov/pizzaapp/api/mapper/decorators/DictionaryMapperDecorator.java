@@ -5,7 +5,6 @@ import ru.usikov.pizzaapp.api.dto.dictionary.IngredientCategoryDto;
 import ru.usikov.pizzaapp.api.dto.dictionary.IngredientDto;
 import ru.usikov.pizzaapp.api.mapper.DictionaryMapper;
 import ru.usikov.pizzaapp.domain.entity.dictionary.Ingredient;
-import ru.usikov.pizzaapp.domain.entity.dictionary.IngredientCategory;
 
 public abstract class DictionaryMapperDecorator implements DictionaryMapper {
 
